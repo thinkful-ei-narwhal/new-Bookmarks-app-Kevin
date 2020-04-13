@@ -1,7 +1,7 @@
 # kevin-bookmarks-app
 
-repo: https://github.com/thinkful-ei-narwhal/kevin-bookmarks-app
-live: https://thinkful-ei-narwhal.github.io/kevin-bookmarks-app/
+repo: https://github.com/thinkful-ei-narwhal/new-Bookmarks-app-Kevin
+live: https://thinkful-ei-narwhal.github.io/new-Bookmarks-app-Kevin/
 
 User Stories:
 
